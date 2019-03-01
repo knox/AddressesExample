@@ -1,0 +1,4 @@
+GET https://addressapi.herokuapp.com/api/v1/addresses
+Accept: application/json
+
+###
